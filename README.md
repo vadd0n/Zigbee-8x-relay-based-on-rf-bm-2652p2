@@ -2,3 +2,5 @@
 
 Made it for home use, maybe anybody want to save time. 
 I use this device with PTVO software. 
+
+Please use 2oz cupper layers (is plane to use 16A). 
